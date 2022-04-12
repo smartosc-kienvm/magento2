@@ -67,6 +67,7 @@ module.exports = {
         collapsable: false,
         children: [
           ['/guide/creating-a-store', 'Creating a Store'],
+          ['/guide/installation', 'Installation'],
           ['/guide/configuration', 'Configuration'],
           ['/guide/override-queries', 'Override queries'],
           ['/guide/testing', 'Testing'],
